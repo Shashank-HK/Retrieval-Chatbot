@@ -1,0 +1,41 @@
+body {
+    background-image: url("../../assets/sprinkle.svg");
+}
+
+.main {
+    margin-top: 2%;
+    margin-left: 25%;
+}
+
+.react-chatbot-kit-chat-container {
+    height: 90vh;
+    width: 600px;
+}
+
+.react-chatbot-kit-chat-header {
+    background-color: #2898ec;
+    color: #fff;
+}
+
+.react-chatbot-kit-chat-message-container {
+    height: 465px;
+}
+
+.react-chatbot-kit-chat-bot-message {
+    margin-left: 15px;
+    width: auto;
+    max-width: 300px;
+}
+
+.react-chatbot-kit-user-chat-message {
+    background-color: #d2d2d2;
+    max-width: 300px;
+}
+
+.react-chatbot-kit-user-chat-message-arrow {
+    border-left: 8px solid #d2d2d2;
+}
+
+.react-chatbot-kit-chat-input-container {
+    height: 50px;
+}
